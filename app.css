@@ -1,0 +1,23 @@
+#loader {
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.progress {
+    display: none;
+}
+
+.errorMsg {
+    font-size: 34px;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.section{
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
